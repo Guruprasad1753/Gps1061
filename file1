@@ -1,4 +1,7 @@
 this is file1
 1st line
+<<<<<<< HEAD
 2nd line
 3rd line
+=======
+>>>>>>> parent of 196795b (second commit)
